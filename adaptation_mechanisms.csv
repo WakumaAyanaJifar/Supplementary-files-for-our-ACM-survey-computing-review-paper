@@ -1,0 +1,6 @@
+Mechanism,Learning_Paradigm,Adaptation_Speed,Stability,Resource_Demand,Implementation_Rate,Study_Count,Representative_Studies
+Online Reinforcement Learning,Trial-and-error optimization,Fast (ms-s),Moderate,High,52%,72,"ref20, ref30, ref45"
+Meta-Learning,Learning to learn,Medium (s-min),High,Very High,28%,39,"ref30, ref59, ref101"
+Transfer Learning,Cross-domain knowledge transfer,Medium (min-h),Moderate,Moderate,41%,57,"ref20, ref45, ref94"
+Evolutionary Algorithms,Population-based optimization,Slow (h-days),High,Very High,19%,26,"ref24, ref91, ref97"
+Continual Learning,Sequential task adaptation,Medium (s-min),Low (catastrophic forgetting),Moderate,23%,32,"ref45, ref101, ref102, ref103"

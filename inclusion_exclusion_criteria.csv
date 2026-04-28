@@ -1,0 +1,13 @@
+Criterion_Category,Criterion_Type,Description
+Publication Type,Inclusion,"Peer-reviewed journal articles, conference papers, and high-quality preprints with DOI or arXiv identifier"
+Publication Type,Exclusion,"Non-peer-reviewed sources, editorials, opinion pieces, news articles, and grey literature without academic review"
+Time Frame,Inclusion,"Publications between January 1, 2021 and March 15, 2026 (inclusive)"
+Time Frame,Exclusion,Publications prior to 2021 or with incomplete publication date information
+Thematic Scope,Inclusion,Studies addressing Artificial General Intelligence or AI systems with explicit cross-domain or multi-task orchestration capabilities
+Thematic Scope,Exclusion,Narrow AI applications confined to a single task or domain without generalization or multi-domain integration claims
+CPST Relevance,Inclusion,"Studies addressing at least two CPST dimensions (Cyber, Physical, Social, Thinking) with explicit integration mechanisms or architectural design"
+CPST Relevance,Exclusion,"Single-domain systems (e.g., pure cyber security or pure physical control) without CPST-level integration"
+Research Contribution,Inclusion,"Empirical studies with reproducible experiments, theoretical frameworks with formal models, or systematic surveys with transparent methodology"
+Research Contribution,Exclusion,"Position papers, vision statements, or commentaries without substantial technical, empirical, or conceptual contribution"
+Language,Inclusion,"English-language publications with full-text availability via institutional access, open access, or interlibrary loan"
+Language,Exclusion,Non-English publications without certified English translation or sufficient metadata for quality assessment

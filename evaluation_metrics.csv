@@ -1,0 +1,6 @@
+Metric_Category,Example_Metrics,Implementation_Rate,Study_Count,Trend_2023_2025,Representative_Studies
+Technical Performance,"Accuracy, F1-score, latency, throughput",87%,121,Stable,"ref40, ref44, ref61, ref62, ref88, ref125"
+Cross-Domain Coordination,"Protocol compliance, global utility, constraint satisfaction",34%,47,Increasing,"ref10, ref11, ref78, ref96, ref122"
+Human-Centric,"System usability, trust calibration, satisfaction",45%,63,Increasing,"ref21, ref34, ref37, ref39, ref98, ref137"
+Ethical & Robustness,"Disparate impact, adversarial robustness, fairness",32%,44,Increasing,"ref29, ref30, ref41, ref42, ref107, ref139"
+Longitudinal,"Multi-year performance, adaptation sustainability",6%,8,Stable (low),"ref14, ref24, ref125"

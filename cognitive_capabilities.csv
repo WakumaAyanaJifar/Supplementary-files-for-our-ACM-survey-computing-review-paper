@@ -1,0 +1,5 @@
+Capability_Level,Cyber_Dimension,Physical_Dimension,Social_Dimension,Thinking_Dimension,Implementation_Rate,Study_Count,Representative_Studies
+Level 1: Perception,"Data processing, pattern recognition","Sensor fusion, spatial awareness","Emotion recognition, intention detection",Metacognitive monitoring,87%,121,"ref14, ref23, ref44, ref57"
+Level 2: Reasoning,"Logical inference, rule application","Causal reasoning, physical simulation","Social reasoning, norm understanding","Self-reflection, belief revision",68%,95,"ref10, ref20, ref78, ref128"
+Level 3: Learning,"Representation learning, transfer learning","Motor learning, adaptation","Social learning, cultural adaptation","Meta-learning, continual learning",45%,63,"ref21, ref34, ref45, ref101"
+Level 4: Coordination,"Resource orchestration, task scheduling",Multi-robot coordination,"Multi-agent collaboration, negotiation","Collective intelligence, consensus building",23%,32,"ref34, ref38, ref41, ref131"

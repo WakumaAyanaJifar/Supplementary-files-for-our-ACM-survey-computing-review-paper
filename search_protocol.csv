@@ -1,0 +1,7 @@
+Database,Search_Date,Query_String,Results_Initial,Results_After_Deduplication,Results_Screened_TitleAbstract,Results_FullText_Assessed,Results_Excluded_FullText,Results_Included,Notes
+IEEE Xplore,2026-01-15,"(""artificial general intelligence"" OR AGI) AND (""cyber-physical systems"" OR CPS)",892,248,142,68,20,48,Keyword search in metadata; IEEE Xplore advanced search
+ScienceDirect,2026-01-16,"TITLE-ABS-KEY(""artificial general intelligence"" OR AGI) AND (""cyber-physical-social"" OR CPST)",714,197,113,54,15,39,Scopus-style field tags used; ScienceDirect advanced search
+MDPI,2026-01-17,(artificial general intelligence OR AGI) AND (cyber-physical-social OR CPST),623,172,99,47,36,11,Abstract-restricted search; MDPI journal filter
+SpringerLink,2026-01-18,"(""artificial general intelligence"" OR AGI) AND (""cyber-physical"" OR CPS)",668,185,106,51,40,11,Subject-area filter: Computer Science; SpringerLink advanced search
+ACM Digital Library,2026-01-19,"[All: ""artificial general intelligence""] AND [All: ""cyber-physical""]",524,171,98,47,37,10,All-field keyword search; ACM DL advanced search
+Total,,Combined Boolean query with AGI and CPST concept blocks,3421,973,452,265,313,139,Forward/backward snowballing added 20 studies categorized under Others

@@ -1,0 +1,14 @@
+Stage,Count,Details
+Identification_Records_Databases,3421,"Records identified from IEEE Xplore, ScienceDirect, MDPI, SpringerLink, ACM DL"
+Identification_Records_Other_Sources,0,No additional records from other sources (grey literature excluded per protocol)
+Identification_Total_Records,3421,Total records identified before screening
+Screening_Duplicates_Removed,2448,Duplicate records removed using automated deduplication (Zotero) + manual verification
+Screening_Records_After_Dedup,973,Unique records remaining after deduplication
+Screening_Excluded_TitleAbstract,521,Records excluded based on title and abstract screening against inclusion criteria
+Eligibility_FullText_Assessed,452,Full-text articles assessed for eligibility by two independent reviewers
+Eligibility_Excluded_FullText_Total,313,Total full-text articles excluded with reasons documented
+Eligibility_Excluded_No_CPST,98,Excluded: Study addresses only single domain without CPST-level integration
+Eligibility_Excluded_Narrow_AI,72,Excluded: Narrow AI application without generalization or multi-domain orchestration
+Eligibility_Excluded_Insufficient_Rigor,48,"Excluded: Insufficient technical rigor, methodological flaws, or irreproducible results"
+Eligibility_Excluded_Duplicate_Overlap,47,Excluded: Duplicate publication or overlapping dataset from same research group
+Included_Final_Synthesis,139,Studies included in qualitative synthesis and data extraction
