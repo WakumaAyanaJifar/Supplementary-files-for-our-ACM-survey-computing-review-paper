@@ -62,12 +62,12 @@ All data were extracted from 139 peer-reviewed publications (January 2021 – Ma
 
 ---
 
-### Data Availability
-The full data extraction spreadsheet, complete search strings, and analysis scripts are publicly available on the Open Science Framework (OSF) at https://osf.io/xxxxx (DOI: 10.17605/OSF.IO/XXXXX).
-The PRISMA 2020 checklist and raw bibliometric data are also included.
+Data Availability
+
+The complete data extraction spreadsheet, full search strategies, and analysis scripts will be made publicly available via the Open Science Framework (OSF) upon acceptance of this manuscript (https://osf.io/xxxxx
+; DOI: 10.17605/OSF.IO/XXXXX).
+In addition, the PRISMA 2020 checklist and the raw bibliometric dataset are provided as supplementary materials.
 
 ---
 
-### Citation
-If using these data, please cite:
-Anonymous. 2026. AGI in Cyber-Physical-Social-Thinking Spaces: A Systematic Literature Review and Future Research Agenda. ACM Computing Surveys.
+
