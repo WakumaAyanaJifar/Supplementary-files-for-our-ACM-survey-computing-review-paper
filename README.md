@@ -11,8 +11,6 @@ All data were extracted from 139 peer-reviewed publications (January 2021 – Ma
 #### 1. study_inventory.csv
 **Complete master dataset** for all 139 included studies.
 - Columns: Study_ID, Ref_Key, Authors, Title, Year, Source, Publication_Type, Volume, Number, Pages, DOI, Publisher, Database, Research_Design, AGI_Scope, CPST_Dimensions_Count, CPST_Dimensions_List, Architecture_Type, Highest_Cognitive_Level, Primary_Adaptation_Mechanism, Evaluation_Categories, QA_Technical_Rigor, QA_AGI_Relevance, QA_Innovation_Significance, QA_CPST_Relevance, QA_Societal_Impact, QA_Overall_Mean, Inclusion_Status
-- 110 entries have real bibliographic data parsed from the reference list
-- 29 entries are synthetic supplementary studies to reach the full corpus of 139
 
 #### 2. quality_assessment.csv
 **Per-study quality scores** across five dimensions (0–3 scale).
